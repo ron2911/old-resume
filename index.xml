@@ -6,8 +6,17 @@
     <description>Recent content on Hugo Cactus Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Feb 2016 20:45:47 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 16 Feb 2016 21:53:45 +0530</lastBuildDate>
     <atom:link href="http://ron2911.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>index</title>
+      <link>http://ron2911.github.io/about/</link>
+      <pubDate>Tue, 16 Feb 2016 21:53:45 +0530</pubDate>
+      
+      <guid>http://ron2911.github.io/about/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>index</title>
